@@ -1,3 +1,4 @@
+// Best solution should be using a map with coordinates as key, only create what are visited.
 package main
 
 import (
